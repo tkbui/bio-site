@@ -1,0 +1,56 @@
+/*  general app */
+* {
+	color: rgb(59, 36, 28);
+	background-color: #c5e2aa;
+	user-select: none;
+}
+
+.App {
+	text-align: center;
+}
+
+/* header */
+header {
+	display: flex;
+	padding-left: 20px;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid #8eb26d;
+}
+
+nav {
+	display: flex;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+header li {
+	display: inline;
+	margin-right: 40px;
+}
+
+.nav-link {
+	text-decoration: none;
+}
+
+.active {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:not(.active):hover {
+	text-decoration: wavy underline;
+}
+
+.intro {
+	padding: 50px;
+	max-width: 500px;
+	margin: auto;
+}
+
+img {
+	max-width: 300px;
+	border-radius: 50%;
+}

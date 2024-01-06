@@ -1,3 +1,7 @@
+# From T.K.
+
+Hi! I'm practicing full-stack and React skills using this project for now. This will serve as a casual and basic type of bio site for myself.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
